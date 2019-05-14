@@ -7,3 +7,4 @@ def login():
 def go():
     pass
 
+list = [1,2,3,4]
